@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.396,
-            "green": 0.153,
-            "red": 0.8200000000000001
+            "blue": 0.7224702380952381,
+            "green": 0.7224702380952381,
+            "red": 0.7224702380952381
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "ComicSansMS-Bold",
-              "size": 25
+              "name": "IBMPlexSans-Text",
+              "size": 16
             }
           },
           "paragraphStyle": {
@@ -27,16 +27,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 6,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "Change"
+    "string": "DEFAULT"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E8E56F5A-15F4-4B27-8ACD-54F6E5DD73C8",
+  "do_objectID": "9FE26134-9A1D-451F-B57D-C194A09CACB2",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 35,
-    "width": 85,
-    "x": 114,
-    "y": 256
+    "height": 20,
+    "width": 66,
+    "x": 83,
+    "y": 207
   },
-  "glyphBounds": "{{0, 8}, {84, 27}}",
+  "glyphBounds": "{{1, 4}, {65, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Change",
+  "name": "DEFAULT",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -81,15 +81,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.396,
-          "green": 0.153,
-          "red": 0.8200000000000001
+          "blue": 0.7224702380952381,
+          "green": 0.7224702380952381,
+          "red": 0.7224702380952381
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "ComicSansMS-Bold",
-            "size": 25
+            "name": "IBMPlexSans-Text",
+            "size": 16
           }
         },
         "paragraphStyle": {
