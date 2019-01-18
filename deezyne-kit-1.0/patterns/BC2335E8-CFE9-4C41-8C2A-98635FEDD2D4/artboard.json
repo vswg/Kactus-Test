@@ -55,8 +55,24 @@
       "id": "0FA6E2F9-F64B-44B6-8DD1-8C547CECAE16"
     },
     {
+      "class": "rectangle",
+      "id": "EE2685C3-2F35-4655-AE34-DA2676D55195"
+    },
+    {
       "class": "text",
       "id": "E8E56F5A-15F4-4B27-8ACD-54F6E5DD73C8"
+    },
+    {
+      "class": "text",
+      "id": "9477632A-C440-4860-AE0B-F1447DBAC6C6"
+    },
+    {
+      "class": "text",
+      "id": "59FCDC6C-4C2A-4113-9AD9-277C0FDD12E4"
+    },
+    {
+      "class": "text",
+      "id": "CDB58DD3-C1F5-438A-8AAE-A3E5FE297D6D"
     }
   ],
   "name": "Artboard",
