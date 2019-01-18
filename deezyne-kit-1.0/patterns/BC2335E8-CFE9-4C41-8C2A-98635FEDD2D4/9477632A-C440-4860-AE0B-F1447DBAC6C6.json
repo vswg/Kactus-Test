@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 7,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": " Button"
+    "string": " Focus"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,11 +53,11 @@
     "constrainProportions": false,
     "do_objectID": "5EC83BCE-0C42-4490-9B0F-190B3BBE635F",
     "height": 33,
-    "width": 83,
+    "width": 73,
     "x": 119,
     "y": 516
   },
-  "glyphBounds": "{{8, 8}, {73, 19}}",
+  "glyphBounds": "{{8, 8}, {64, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Button",
+  "name": "Focus",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

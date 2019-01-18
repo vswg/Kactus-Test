@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 7,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": " Button"
+    "string": " Hover"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,11 +53,11 @@
     "constrainProportions": false,
     "do_objectID": "2195D3AD-BB73-48F8-986A-A33E006EEB49",
     "height": 33,
-    "width": 83,
+    "width": 73,
     "x": 119,
     "y": 386
   },
-  "glyphBounds": "{{8, 8}, {73, 19}}",
+  "glyphBounds": "{{8, 8}, {65, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Button Copy",
+  "name": "Hover",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

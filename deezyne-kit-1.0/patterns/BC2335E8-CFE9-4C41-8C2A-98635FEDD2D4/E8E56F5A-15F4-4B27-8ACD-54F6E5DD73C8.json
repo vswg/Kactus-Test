@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 6,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "Button"
+    "string": "Default\t"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 33,
-    "width": 77,
+    "width": 84,
     "x": 119,
     "y": 258
   },
-  "glyphBounds": "{{2, 8}, {73, 19}}",
+  "glyphBounds": "{{2, 7}, {80, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Button",
+  "name": "Default",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
