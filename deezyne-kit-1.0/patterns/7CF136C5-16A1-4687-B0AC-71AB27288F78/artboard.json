@@ -53,6 +53,22 @@
     {
       "class": "text",
       "id": "0E4BF319-98CA-4510-9C61-58AF9FEEC3A1"
+    },
+    {
+      "class": "rectangle",
+      "id": "7243CCF6-A56F-470D-9190-5E514C80EC4A"
+    },
+    {
+      "class": "rectangle",
+      "id": "F8322A03-DA92-4822-B91F-56F3D0CC454D"
+    },
+    {
+      "class": "text",
+      "id": "109F3292-42FB-4B06-B1D5-D164626EDE43"
+    },
+    {
+      "class": "text",
+      "id": "8ABE62AA-29B5-402B-B1AF-3A8AE90438B4"
     }
   ],
   "name": "Text Input",
