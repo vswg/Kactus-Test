@@ -109,7 +109,7 @@
           "green": 0.6077521671367203,
           "red": 0.492739898989899
         },
-        "fillType": 1,
+        "fillType": 0,
         "gradient": {
           "_class": "gradient",
           "elipseLength": 1,
