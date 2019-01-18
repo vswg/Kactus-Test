@@ -36,11 +36,11 @@
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9477632A-C440-4860-AE0B-F1447DBAC6C6",
+  "do_objectID": "63B62470-F311-40B8-9AEF-3E9387A891C3",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "9A921873-4CCA-42DB-A570-9E376BCA79C9",
+    "do_objectID": "A036D5D3-1A9E-4AB5-8A97-B47748BD9480",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,11 +51,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "5EC83BCE-0C42-4490-9B0F-190B3BBE635F",
+    "do_objectID": "2195D3AD-BB73-48F8-986A-A33E006EEB49",
     "height": 33,
     "width": 83,
     "x": 119,
-    "y": 516
+    "y": 386
   },
   "glyphBounds": "{{8, 8}, {73, 19}}",
   "hasClippingMask": false,
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Button",
+  "name": "Button Copy",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -74,13 +74,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "43157F28-39A7-416C-A66D-9A08E24ECCDB",
+    "do_objectID": "F90E622E-4FB7-4DFE-99D2-A5819F1E32B6",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "7972EAD7-A4F6-4190-A357-148789C0B2BE",
+      "do_objectID": "ACB1B2DF-48D3-42CC-A633-9FAE64A4370A",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

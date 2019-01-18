@@ -59,6 +59,10 @@
       "id": "EE2685C3-2F35-4655-AE34-DA2676D55195"
     },
     {
+      "class": "rectangle",
+      "id": "92665F5C-3810-4EE0-B5C4-EE08DC8273A2"
+    },
+    {
       "class": "text",
       "id": "E8E56F5A-15F4-4B27-8ACD-54F6E5DD73C8"
     },
@@ -68,7 +72,15 @@
     },
     {
       "class": "text",
+      "id": "63B62470-F311-40B8-9AEF-3E9387A891C3"
+    },
+    {
+      "class": "text",
       "id": "59FCDC6C-4C2A-4113-9AD9-277C0FDD12E4"
+    },
+    {
+      "class": "text",
+      "id": "024B983F-1A6E-4C6F-B737-CD5EAA8CB5E4"
     },
     {
       "class": "text",
