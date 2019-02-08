@@ -4,15 +4,17 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "60FE3FFB-EE59-461C-A8F3-F107C6BA54E0",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 54,
+  "changeIdentifier": 143,
   "clippingMaskMode": 0,
-  "do_objectID": "985C114E-D297-4E49-8289-0879871F3574",
+  "do_objectID": "B8909E01-BF9F-4A94-BA4A-2D160D503C64",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "C3A21BCB-CAD5-4616-B708-EBC806ED5B22",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -23,20 +25,23 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "4780E871-3902-4394-9401-5B31AFDE7553",
     "height": 138,
     "width": 138,
-    "x": 1056,
+    "x": 3923,
     "y": 79
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "C6EF0C45-679C-477C-9D1E-88E9EBE5DE9F"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "55543348-21BF-4E5E-A96B-D9DEAECD88F5",
     "guides": [
     ]
   },
@@ -53,10 +58,10 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "5638C3EE-7A36-4C64-9262-16B254682D8B"
+      "id": "A9365660-0696-4229-B6C6-8D9D60F7CAB7"
     }
   ],
-  "name": "Rectangle",
+  "name": "Rectangle Copy 4",
   "nameIsFixed": false,
   "overrideProperties": [
   ],
@@ -67,15 +72,17 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "C7305E13-4366-4768-AAFB-6D835774FFCE",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "28536B04-CFC9-4B1E-8051-E92E7F64D6FB",
+  "symbolID": "E40F5C7F-171F-4EF7-8863-96725533C7CC",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "4F44F91B-FCED-4B1B-AF1C-B3BA633611B9",
     "guides": [
     ]
   }
