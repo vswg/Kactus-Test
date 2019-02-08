@@ -4,15 +4,17 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "6D8E513A-AA49-45C7-86A7-E1A5AD8F24D2",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 54,
+  "changeIdentifier": 74,
   "clippingMaskMode": 0,
-  "do_objectID": "985C114E-D297-4E49-8289-0879871F3574",
+  "do_objectID": "4B786E63-67DF-4E27-A7C2-570CC361ACEA",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "F16D3E33-9E9C-423B-8AFA-090D36A9FFDD",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -23,20 +25,23 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "CA023326-2C3F-4D54-AD25-B63139CDB85C",
     "height": 138,
     "width": 138,
-    "x": 1056,
+    "x": 1775,
     "y": 79
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "34BFF639-39C3-4FB0-9FD3-8FADED6CC415"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "0C84E7EF-A415-469C-9C2D-63BBA8A4B4C9",
     "guides": [
     ]
   },
@@ -53,10 +58,10 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "5638C3EE-7A36-4C64-9262-16B254682D8B"
+      "id": "094106C9-3279-40AF-8455-ED84522D0C66"
     }
   ],
-  "name": "Rectangle",
+  "name": "Rectangle Copy",
   "nameIsFixed": false,
   "overrideProperties": [
   ],
@@ -67,15 +72,17 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "B28D9E54-4E92-42F4-852D-406E437C126C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "28536B04-CFC9-4B1E-8051-E92E7F64D6FB",
+  "symbolID": "93EF12C6-E69E-4F0C-B3FC-835C5F683631",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "8F39FDF4-B98A-4076-9EAA-B1DCB0BFE9A6",
     "guides": [
     ]
   }

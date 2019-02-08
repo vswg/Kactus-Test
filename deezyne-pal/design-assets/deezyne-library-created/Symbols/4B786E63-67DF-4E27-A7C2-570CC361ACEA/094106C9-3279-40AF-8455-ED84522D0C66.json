@@ -2,10 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5638C3EE-7A36-4C64-9262-16B254682D8B",
+  "do_objectID": "094106C9-3279-40AF-8455-ED84522D0C66",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "77E76686-D863-436D-9B42-6124145AFD56",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -17,6 +18,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
+    "do_objectID": "4DC14605-D1FE-4779-AC5B-257AEEA1A7FD",
     "height": 69,
     "width": 69,
     "x": 0,
@@ -98,6 +100,7 @@
         "thickness": 1
       }
     ],
+    "do_objectID": "3B3A3687-601B-420A-8917-DEB114B4BE01",
     "endMarkerType": 0,
     "fills": [
       {

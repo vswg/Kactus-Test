@@ -4,15 +4,17 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "354F2C76-FC42-433F-9490-7B61547515A2",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 54,
+  "changeIdentifier": 38,
   "clippingMaskMode": 0,
-  "do_objectID": "985C114E-D297-4E49-8289-0879871F3574",
+  "do_objectID": "C4070CFE-B3B6-457F-BAC1-C1F540820FF9",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "45CBE4FB-DA31-49BA-8E8D-6DFD7BA01EA8",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -23,20 +25,23 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 138,
-    "width": 138,
-    "x": 1056,
+    "do_objectID": "3B942710-4685-4003-B903-F4C69EB98D99",
+    "height": 149,
+    "width": 149,
+    "x": 2048,
     "y": 79
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "742556EF-3A9E-4996-B591-72C803E5FF99"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "2CA65247-ECA2-4986-829B-D38380CC4B91",
     "guides": [
     ]
   },
@@ -52,11 +57,11 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "5638C3EE-7A36-4C64-9262-16B254682D8B"
+      "class": "oval",
+      "id": "01B6814A-82D4-4864-BBE3-F105921E0A05"
     }
   ],
-  "name": "Rectangle",
+  "name": "Circle Copy 3",
   "nameIsFixed": false,
   "overrideProperties": [
   ],
@@ -67,15 +72,17 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "61DA5331-2F53-46A2-93A4-7687F62D8B08",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "28536B04-CFC9-4B1E-8051-E92E7F64D6FB",
+  "symbolID": "E975CC30-377E-4857-83B8-6999B7407AF2",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "807DF2E8-DD45-45B0-9010-274319E4B114",
     "guides": [
     ]
   }
