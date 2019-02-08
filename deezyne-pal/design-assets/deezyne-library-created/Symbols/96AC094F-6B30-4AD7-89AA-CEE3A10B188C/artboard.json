@@ -1,5 +1,5 @@
 {
-  "_class": "symbolMaster",
+  "_class": "artboard",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -7,10 +7,9 @@
     "green": 1,
     "red": 1
   },
-  "booleanOperation": 0,
-  "changeIdentifier": 4,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1E1F5E70-005A-44B5-A875-E1DD6D7A0DAD",
+  "do_objectID": "96AC094F-6B30-4AD7-89AA-CEE3A10B188C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
-    "width": 1440,
-    "x": 69819,
-    "y": 3643
+    "height": 200,
+    "width": 200,
+    "x": 60,
+    "y": 79
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -41,7 +40,6 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -52,39 +50,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "D3C0537B-92CD-4D06-B633-EA06C6043178"
+      "class": "oval",
+      "id": "668EE411-C945-49F2-BB53-2FF2B463628C"
     }
   ],
-  "name": "Wireframe - Global Header",
-  "nameIsFixed": false,
-  "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "1EA03DF0-BDA1-428D-B0BD-6FC4C0A1CB6B_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "17E82354-39A4-4164-BACB-6C5418B818FB_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "1EA03DF0-BDA1-428D-B0BD-6FC4C0A1CB6B_image"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "17E82354-39A4-4164-BACB-6C5418B818FB_image"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "C7324F12-EAEA-49FD-BF16-9BAFA8399171_stringValue"
-    }
-  ],
+  "name": "Circle",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -97,7 +68,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "FAB01D31-4223-448E-AAE7-94B8C918415E",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

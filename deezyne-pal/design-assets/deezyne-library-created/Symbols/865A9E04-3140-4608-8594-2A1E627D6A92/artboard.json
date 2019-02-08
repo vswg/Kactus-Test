@@ -1,18 +1,19 @@
 {
-  "_class": "symbolMaster",
+  "_class": "artboard",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "D966E198-CDF8-47F2-8412-8A22C54E58FD",
     "green": 1,
     "red": 1
   },
-  "booleanOperation": 0,
-  "changeIdentifier": 3,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "014DF263-47E4-46AD-AB28-FE8D91D74879",
+  "do_objectID": "865A9E04-3140-4608-8594-2A1E627D6A92",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "ACA9D534-23ED-4807-9FDB-C6FA933053BD",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -23,13 +24,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 108,
-    "x": 32119,
-    "y": 0
+    "do_objectID": "F6FA19C6-FF1E-4953-8D7B-F0AFFF19CEAB",
+    "height": 200,
+    "width": 200,
+    "x": 327,
+    "y": 79
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "38794F21-F81C-4A43-9A56-0E22EA12EDF1"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -37,11 +40,11 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "B51A1252-EF05-4803-A825-977E10E7567B",
     "guides": [
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -49,32 +52,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "7F0A666D-5770-4A0A-8706-07F1374457AF"
+      "class": "triangle",
+      "id": "2D0860D7-4507-491D-81E4-3E7FAA714451"
     }
   ],
-  "name": "Button Brand - Disabled ",
-  "nameIsFixed": false,
-  "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "6AE92E0B-3206-4502-8691-D6401FDD0DD5_image"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "6AE92E0B-3206-4502-8691-D6401FDD0DD5_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "CD71BB59-962A-4CD1-A3DD-A6DBE8F0E346_stringValue"
-    }
-  ],
+  "name": "Triangle",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -82,15 +68,16 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "77220789-F27F-4CD6-B503-187D290A7C7B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4CFDA3A8-AF74-4D03-8BA0-F3F523817C11",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "EBBEFCD9-D19C-495B-8B40-5C4624E4DEAF",
     "guides": [
     ]
   }
