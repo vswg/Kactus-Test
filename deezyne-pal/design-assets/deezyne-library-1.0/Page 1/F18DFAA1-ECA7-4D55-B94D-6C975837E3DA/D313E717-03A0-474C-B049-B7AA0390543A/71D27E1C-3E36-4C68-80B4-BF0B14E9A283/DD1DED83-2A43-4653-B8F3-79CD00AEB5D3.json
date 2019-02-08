@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SalesforceSans-Regular",
+              "name": "IBMPlexSans",
               "size": 16
             }
           },
@@ -55,11 +55,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 108,
+    "width": 104,
     "x": 46,
     "y": 1472
   },
-  "glyphBounds": "{{0, 0}, {107, 24}}",
+  "glyphBounds": "{{1, 8}, {103, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -70,7 +70,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Heading Label",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -92,7 +92,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SalesforceSans-Regular",
+            "name": "IBMPlexSans",
             "size": 16
           }
         },

@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SalesforceSans-Regular",
+              "name": "IBMPlexSans",
               "size": 12
             }
           }
@@ -45,11 +45,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 15,
-    "width": 182,
+    "width": 175,
     "x": 1568,
     "y": 2069
   },
-  "glyphBounds": "{{0, 0}, {181, 16}}",
+  "glyphBounds": "{{0, 2}, {174, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -60,7 +60,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Card Body (custom go",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -82,7 +82,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SalesforceSans-Regular",
+            "name": "IBMPlexSans",
             "size": 12
           }
         }
