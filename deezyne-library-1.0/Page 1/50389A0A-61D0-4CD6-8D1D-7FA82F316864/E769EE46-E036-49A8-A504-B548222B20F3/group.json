@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E769EE46-E036-49A8-A504-B548222B20F3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 30.00000000000001,
+    "x": 1291,
+    "y": 1320
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "52FA1F36-2833-4CDE-B4FE-DC3F3F869D12"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FAF57BD8-F056-4FC8-91B5-8CAC039416A8"
+    },
+    {
+      "class": "shapePath",
+      "id": "376F133C-2B55-46A9-90A4-5A857F1793A7"
+    },
+    {
+      "class": "shapePath",
+      "id": "A16136C7-D5A1-411A-87EC-ED6F9D938768"
+    }
+  ],
+  "name": "icons/doctype/gsheet",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

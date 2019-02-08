@@ -1,0 +1,135 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "AF2E4BD2-4A35-411A-88D1-CB68A87372B8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 246,
+    "width": 231,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "66D3A655-9EE1-4A78-A423-F232D14D42FF"
+    },
+    {
+      "class": "rectangle",
+      "id": "67971877-76AA-494E-9392-23352C0624AA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "27CA4A41-FBCD-46E2-BAAB-D4A6B63E9174"
+    },
+    {
+      "class": "rectangle",
+      "id": "4AD1EA22-1817-4C5C-A97B-059334948460"
+    },
+    {
+      "class": "rectangle",
+      "id": "FA57C10B-79B3-4FEA-B344-E7296051DC1C"
+    },
+    {
+      "class": "rectangle",
+      "id": "68D8EB2E-ED95-4A97-B30A-23B9814F63BD"
+    },
+    {
+      "class": "rectangle",
+      "id": "FDC884EA-2855-4357-B402-ECCBD9FA2A55"
+    },
+    {
+      "class": "rectangle",
+      "id": "0A17F964-FF76-47AF-A53A-36F02E59EA24"
+    },
+    {
+      "class": "rectangle",
+      "id": "51E512CA-122F-4A6B-AC92-7B56394C9D2F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ABA5BC76-4CE6-4E80-9139-D634AA739BE0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "937F07C2-C183-433F-9484-C0A9BCF0C1DD"
+    },
+    {
+      "class": "rectangle",
+      "id": "F2F69A51-5001-4AE5-AC51-7CAB424CFDE2"
+    },
+    {
+      "class": "rectangle",
+      "id": "5690FFFC-B6D2-48D6-86E3-D8D425760949"
+    },
+    {
+      "class": "rectangle",
+      "id": "1BB44E6A-2DF9-4D6B-B826-ECD405502A28"
+    },
+    {
+      "class": "rectangle",
+      "id": "E4E3968D-6479-4CB4-B455-34E1E37F814B"
+    },
+    {
+      "class": "triangle",
+      "id": "6D01DB39-1424-46C8-9CC1-4FD62F5C99D2"
+    },
+    {
+      "class": "triangle",
+      "id": "2392C08B-DA2B-4609-B035-2CAA2D618D3F"
+    },
+    {
+      "class": "rectangle",
+      "id": "E7FA5468-3353-4D18-95E0-619647F925D3"
+    },
+    {
+      "class": "rectangle",
+      "id": "6D398F28-D22B-45D5-8CC9-EB79059860E6"
+    },
+    {
+      "class": "group",
+      "id": "F3864709-0816-435A-867B-F8434944BAB1"
+    }
+  ],
+  "name": "Rocket Ship ",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

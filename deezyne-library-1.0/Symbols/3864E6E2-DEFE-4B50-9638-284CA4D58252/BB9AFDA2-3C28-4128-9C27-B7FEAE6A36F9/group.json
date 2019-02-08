@@ -1,0 +1,143 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BB9AFDA2-3C28-4128-9C27-B7FEAE6A36F9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 556,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "5DCADA19-4726-4226-93F5-41C4FCD825F0"
+    },
+    {
+      "class": "shapePath",
+      "id": "F5A636FA-282F-41F9-B72A-1AAB25BE3949"
+    },
+    {
+      "class": "shapePath",
+      "id": "53A2A582-2FF5-49A6-95B1-68C875D4C423"
+    },
+    {
+      "class": "shapePath",
+      "id": "EC0C42FD-35BE-40D1-AF5A-1F3280EE953F"
+    },
+    {
+      "class": "shapePath",
+      "id": "98AD31D1-6B65-4081-8F9A-8D14F3B6034C"
+    },
+    {
+      "class": "shapePath",
+      "id": "8E51D47A-FD50-4F96-B68A-4376CA04048B"
+    },
+    {
+      "class": "shapePath",
+      "id": "387F0E0C-83D9-4D3A-A9C5-797D2406CAB6"
+    },
+    {
+      "class": "shapePath",
+      "id": "D8C4CE5F-9768-4310-8BF8-54A76393B964"
+    },
+    {
+      "class": "shapePath",
+      "id": "6D065E16-2968-4534-9A75-B9343C3A3DC5"
+    },
+    {
+      "class": "shapePath",
+      "id": "21075BC0-1549-4D78-A973-F250A4F5E73D"
+    },
+    {
+      "class": "shapePath",
+      "id": "186A6B6F-809D-492B-8A46-8C18A0B3930E"
+    },
+    {
+      "class": "oval",
+      "id": "A2283EC2-10FC-4BB4-8F07-A78FE00CB790"
+    },
+    {
+      "class": "oval",
+      "id": "0C074CF3-300B-4BFA-AECF-C600AA47D1A3"
+    },
+    {
+      "class": "oval",
+      "id": "1467A534-D036-4704-8C5F-D6A08CA8BD2D"
+    },
+    {
+      "class": "oval",
+      "id": "EBEC0B2F-0702-4BDB-B492-90DE035393F7"
+    },
+    {
+      "class": "oval",
+      "id": "5B400CA1-2B13-444B-9D43-5C4E6EB006ED"
+    },
+    {
+      "class": "oval",
+      "id": "316C68A5-12F9-42E2-9B9A-18B97EB5D25B"
+    },
+    {
+      "class": "oval",
+      "id": "3D20CBEB-D5B9-420D-BC94-BCB3A38AB6DE"
+    },
+    {
+      "class": "oval",
+      "id": "4DC589D3-F6DC-47F7-843B-4EF482A203BB"
+    },
+    {
+      "class": "oval",
+      "id": "B2F24A53-DEAA-44A7-B3EB-3D761E955197"
+    },
+    {
+      "class": "oval",
+      "id": "F531CF06-DD18-4D32-90F3-B2F33BD64200"
+    },
+    {
+      "class": "oval",
+      "id": "FE676387-7293-463E-8668-D7936A130EA1"
+    }
+  ],
+  "name": "Mobile - List View",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "28542131-E46A-49A6-B8E8-0DCF96F3C087",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 30.00000000000001,
+    "x": 1387,
+    "y": 1216
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E8C10F55-383B-4506-98B9-A7A59775C70E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5381CCF8-91BD-4A50-917B-DF218CBF91B0"
+    },
+    {
+      "class": "shapePath",
+      "id": "07A91F55-2A4F-4997-B4FA-2641BFAA9F75"
+    },
+    {
+      "class": "shapePath",
+      "id": "1F25D9F1-3923-4390-846D-91246D32D8FE"
+    }
+  ],
+  "name": "icons/doctype/slide",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

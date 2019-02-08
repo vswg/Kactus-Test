@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "511F0746-BD5B-4F74-8303-954A68453752",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 1190,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "4B9A7504-5867-453B-A36D-E7A3917542D3"
+    },
+    {
+      "class": "rectangle",
+      "id": "A3B643E7-DF4A-4474-870F-EDCC30DE2BCF"
+    },
+    {
+      "class": "group",
+      "id": "03DD0FE3-C849-4277-B8DC-7A8CD2D5D4D6"
+    },
+    {
+      "class": "rectangle",
+      "id": "6C8FFBAD-0D93-4189-9BED-E23C76430B53"
+    },
+    {
+      "class": "rectangle",
+      "id": "46EB377B-3AF2-447E-BC4C-B26B7B3D47B6"
+    },
+    {
+      "class": "rectangle",
+      "id": "736284EF-265F-4FC2-A65B-D8763EE5B004"
+    },
+    {
+      "class": "rectangle",
+      "id": "74058F33-A627-4E2E-9B75-B138F051BB2D"
+    },
+    {
+      "class": "rectangle",
+      "id": "B685C03B-5EFD-4AC1-841C-62D36F5A865B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "067EA732-1D78-44CB-A55D-6F2467E356E1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2192E8CF-8FC6-4063-83E7-B1616836281C"
+    },
+    {
+      "class": "text",
+      "id": "C7E5F5E9-0A1A-48C2-8DD7-2D9A1AEC884D"
+    },
+    {
+      "class": "text",
+      "id": "CC7281A6-3EC6-4E12-AC74-2F3CAF246C96"
+    },
+    {
+      "class": "text",
+      "id": "712D53CF-FFF4-4A8D-9CAA-254C00E6352A"
+    }
+  ],
+  "name": "Stage Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "59BCF08C-1D1D-44ED-B60A-AC8A11A697F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 30.00000000000001,
+    "x": 1435,
+    "y": 1164
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "FA2A8C1A-1747-41B8-908D-B911930E8FA3"
+    },
+    {
+      "class": "shapePath",
+      "id": "79A5C83D-8007-43B1-AD27-B8BFC298ED8E"
+    },
+    {
+      "class": "shapePath",
+      "id": "AD1E3025-E31B-4EA9-A873-67A5BC947487"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5E3CFF0A-1749-400B-8B3D-459D086C6165"
+    }
+  ],
+  "name": "icons/doctype/visio",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

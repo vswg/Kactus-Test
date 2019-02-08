@@ -27,6 +27,9 @@
     "x": 55,
     "y": -191
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -85,6 +88,14 @@
     {
       "class": "text",
       "id": "CDB58DD3-C1F5-438A-8AAE-A3E5FE297D6D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5D7255F7-F0B9-4D0E-9EB3-284695CC8CC4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2790FDA1-9A37-4A7F-8684-2DB738C8AC48"
     }
   ],
   "name": "Artboard",

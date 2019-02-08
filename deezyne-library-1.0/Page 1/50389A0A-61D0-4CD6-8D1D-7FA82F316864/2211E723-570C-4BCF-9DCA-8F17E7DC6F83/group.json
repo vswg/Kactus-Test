@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2211E723-570C-4BCF-9DCA-8F17E7DC6F83",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 30.00000000000001,
+    "x": 1243,
+    "y": 1268
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "82B14A1E-5334-4608-934C-F27D1FBCB828"
+    },
+    {
+      "class": "shapePath",
+      "id": "A6F08333-046B-43F1-BBE7-54EF9DB666AE"
+    },
+    {
+      "class": "shapePath",
+      "id": "621CBC3A-02A2-457B-8C5A-CA40C84284EE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FE2864A7-EED7-4B20-9E2A-D4B6378AD19C"
+    }
+  ],
+  "name": "icons/doctype/ppt",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

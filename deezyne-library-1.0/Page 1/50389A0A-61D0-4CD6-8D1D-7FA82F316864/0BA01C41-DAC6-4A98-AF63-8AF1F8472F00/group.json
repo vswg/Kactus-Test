@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0BA01C41-DAC6-4A98-AF63-8AF1F8472F00",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 30.00000000000001,
+    "x": 1435,
+    "y": 1372
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "18280C73-101E-47BD-A7D6-F86869178EC5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1C6992BA-B32E-4853-BE4C-EA4EA1D7F12E"
+    },
+    {
+      "class": "shapePath",
+      "id": "3E9D7BAF-F702-4D24-A2B0-834594D9414E"
+    },
+    {
+      "class": "shapePath",
+      "id": "FA56F4D3-F513-4962-813B-EE6F7A3D2A78"
+    }
+  ],
+  "name": "icons/doctype/csv",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

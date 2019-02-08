@@ -1,0 +1,111 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B194C4A4-C4B4-48FB-B704-CB23E103554B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 407,
+    "width": 792,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0B18CF64-F258-4802-B4BE-7AC92F7E32E2"
+    },
+    {
+      "class": "rectangle",
+      "id": "3B0EF9C2-3E10-4E3C-B8C8-ED9832772535"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9F688E13-A420-4ABD-B1EE-D10DED7809BC"
+    },
+    {
+      "class": "group",
+      "id": "842827B5-A2EC-475B-9FCC-5D67B82DC794"
+    },
+    {
+      "class": "group",
+      "id": "8419F086-ADD0-4EB1-B129-1ABCA0DCF439"
+    },
+    {
+      "class": "rectangle",
+      "id": "AD065BD3-7298-4CC6-AAA6-4A2336EEC0BC"
+    },
+    {
+      "class": "oval",
+      "id": "14A14424-E181-422D-A3F2-CE74F77B09B5"
+    },
+    {
+      "class": "oval",
+      "id": "899CBB58-D57B-4A5B-A155-C300FF6589FD"
+    },
+    {
+      "class": "oval",
+      "id": "D20098E5-476E-46D2-8EFD-D9F82B60E30C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1EBC2C9E-D778-4AA8-95CB-786D43C1C05E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2C742C41-F9D2-4B65-A28B-E1599213320D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E8C27B97-AE8A-4726-B4A5-64D188B54BD2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8A4AC5CE-458A-4F7F-93ED-666CA031B3E5"
+    },
+    {
+      "class": "group",
+      "id": "96B40321-F622-486A-9942-DBE42AF1ACE4"
+    }
+  ],
+  "name": "Page Not found",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

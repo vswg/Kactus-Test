@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3E20457B-CAB3-4036-A371-1D465BD1B719",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 30.00000000000001,
+    "x": 1435,
+    "y": 1320
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "1568194F-0D4B-4E81-80FA-50290DF79609"
+    },
+    {
+      "class": "shapePath",
+      "id": "BDA8BD7F-27AE-412E-AC32-0BBA99F80264"
+    },
+    {
+      "class": "shapePath",
+      "id": "5C6DE959-BB29-4DD2-A0BF-4DDD6913AACF"
+    },
+    {
+      "class": "shapePath",
+      "id": "E3707D66-939C-4FDB-A85B-E7FFD4804248"
+    }
+  ],
+  "name": "icons/doctype/gdocs",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

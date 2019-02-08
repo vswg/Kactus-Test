@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F3217D44-9E9D-4C00-B76D-A09A56769396",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 315,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "DFBDD124-2740-4C05-B06F-37FA9B7F3E8F"
+    },
+    {
+      "class": "rectangle",
+      "id": "F1B0990D-3B75-4C5A-8385-79C9BD0181B0"
+    },
+    {
+      "class": "shapePath",
+      "id": "2C71EA1E-7EEB-459F-8F0D-9A3C971C8040"
+    },
+    {
+      "class": "rectangle",
+      "id": "BE5A7566-82FC-403D-A64F-1126EE75BA2E"
+    },
+    {
+      "class": "rectangle",
+      "id": "39CEA767-D61F-439B-B0B5-035433FA949A"
+    },
+    {
+      "class": "rectangle",
+      "id": "359DAD9F-DFC2-4EDE-A234-A6D333F74823"
+    }
+  ],
+  "name": "Wireframe - Button Group",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
