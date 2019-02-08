@@ -1,0 +1,139 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "33E27084-C52C-405B-A2EA-511EF3AC3BA5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 6102,
+    "width": 1912,
+    "x": -5,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "3A917728-5243-4D60-A08C-CB938CFEEA62"
+    },
+    {
+      "class": "text",
+      "id": "DE40B858-A309-4E4F-BAFB-7C71A08FADFB"
+    },
+    {
+      "class": "text",
+      "id": "97F93F8F-2B10-4FDE-805F-C29AAA027FF2"
+    },
+    {
+      "class": "text",
+      "id": "617C6963-F2D9-4218-B8DE-4D7D8097E413"
+    },
+    {
+      "class": "text",
+      "id": "BB15BCCA-1B6F-4399-92A6-8C80BC5C27C6"
+    },
+    {
+      "class": "text",
+      "id": "7F21B1A3-F62B-4B85-99F5-A365DCC7A8B3"
+    },
+    {
+      "class": "text",
+      "id": "937B5E84-64DD-4685-8614-4B0F2CC40787"
+    },
+    {
+      "class": "text",
+      "id": "D6FFB110-7099-49B3-9145-E50A5463C310"
+    },
+    {
+      "class": "text",
+      "id": "4FA5B06F-329B-430C-B734-3BDCE2D5CC7F"
+    },
+    {
+      "class": "text",
+      "id": "B6C98172-542D-4F4B-AEA5-C69AD77ABEAE"
+    },
+    {
+      "class": "text",
+      "id": "A999CE11-EE8C-448D-AD17-C508FC473FAC"
+    },
+    {
+      "class": "text",
+      "id": "52ADEE7F-1382-4BED-9015-B31137B84DBC"
+    },
+    {
+      "class": "text",
+      "id": "2DCD8813-8477-4358-B971-96FA25A06DB7"
+    },
+    {
+      "class": "text",
+      "id": "4034AED5-3080-4488-9BB1-618DA2CF9999"
+    },
+    {
+      "class": "text",
+      "id": "3A6B0B4C-2E68-4D16-B5E1-06D29102A1EA"
+    },
+    {
+      "class": "text",
+      "id": "0849B183-C2E0-45EA-BE32-880F7957DF76"
+    },
+    {
+      "class": "text",
+      "id": "28064131-1FFB-4A93-BA40-D63B8C291F8E"
+    },
+    {
+      "class": "text",
+      "id": "8456BFE9-83E8-4468-BEBF-99E1F872780F"
+    },
+    {
+      "class": "text",
+      "id": "5F254211-BC9D-48A7-BFBF-CD2E5E56CFE6"
+    },
+    {
+      "class": "text",
+      "id": "5E9ADC97-021D-433F-91C3-C92F52EF8A22"
+    },
+    {
+      "class": "group",
+      "id": "0AFC3BCD-AB86-4410-BF06-DA1A18DC1225"
+    }
+  ],
+  "name": "ARTBOARD",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

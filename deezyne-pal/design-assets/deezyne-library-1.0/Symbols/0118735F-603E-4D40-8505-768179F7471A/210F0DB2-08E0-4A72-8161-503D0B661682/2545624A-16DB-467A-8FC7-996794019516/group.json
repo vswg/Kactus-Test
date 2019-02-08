@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2545624A-16DB-467A-8FC7-996794019516",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 202,
+    "width": 398,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "DD454D78-5F6D-48A0-9AF6-A2185B5698CE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8DF1D42D-88B6-4A64-9253-3D90315FC8E8"
+    },
+    {
+      "class": "group",
+      "id": "FDEC1828-2268-4F4F-9E46-4B9D583E818D"
+    },
+    {
+      "class": "text",
+      "id": "01AAD0E0-3A54-456E-8215-A175A944EA19"
+    },
+    {
+      "class": "group",
+      "id": "D7EABCB0-2CCA-4056-8DF6-923A57E542FD"
+    },
+    {
+      "class": "text",
+      "id": "16B16CE1-3F6D-4996-B636-DABB1082A9E8"
+    },
+    {
+      "class": "shapePath",
+      "id": "76C41269-3933-434F-B1AB-3815DE34922E"
+    }
+  ],
+  "name": "WT Bubble - Short Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.45,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

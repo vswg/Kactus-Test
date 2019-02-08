@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B9264073-3DD6-48FD-9269-79A8708003B2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 30.00000000000001,
+    "x": 1339,
+    "y": 1424
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "93FDDAE3-04C6-4581-AD56-9962FD48C808"
+    },
+    {
+      "class": "shapePath",
+      "id": "7939D562-C579-467A-8D09-CC41AC58EAEA"
+    },
+    {
+      "class": "shapePath",
+      "id": "1F33D516-C0A0-4639-949B-EABE5ED6C5BE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "111FEF50-853D-4397-A920-4A2835060D9E"
+    }
+  ],
+  "name": "icons/doctype/ai",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

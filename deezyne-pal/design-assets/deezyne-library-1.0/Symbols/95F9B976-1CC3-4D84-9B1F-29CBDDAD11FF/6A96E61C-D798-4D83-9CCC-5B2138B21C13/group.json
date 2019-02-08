@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6A96E61C-D798-4D83-9CCC-5B2138B21C13",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 61,
+    "width": 187,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "BCD629CF-E61D-4D53-839C-7AF5217EFB49"
+    },
+    {
+      "class": "text",
+      "id": "CD98455F-4E73-4D2C-8B53-F97551C93022"
+    },
+    {
+      "class": "text",
+      "id": "AA296B58-0086-49D4-BCF5-DD5E970D9708"
+    },
+    {
+      "class": "oval",
+      "id": "1F6EB01B-9113-47F2-87E7-FA0285C68CAC"
+    },
+    {
+      "class": "group",
+      "id": "FC174CBB-DD18-4C3A-9FE5-B27286C7FCA6"
+    }
+  ],
+  "name": "Radio Button - Selected",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "D8AFA76B-A448-46F8-989D-BFC77ADBEED8",
+        "version": 1
+      }
+    }
+  }
+}

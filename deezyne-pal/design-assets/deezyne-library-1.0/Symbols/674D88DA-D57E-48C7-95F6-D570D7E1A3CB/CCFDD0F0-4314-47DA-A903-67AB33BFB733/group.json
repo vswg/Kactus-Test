@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CCFDD0F0-4314-47DA-A903-67AB33BFB733",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 479,
+    "width": 390,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "56A26098-450D-4134-8AE7-EA719306EFDE"
+    },
+    {
+      "class": "group",
+      "id": "A2579C48-791F-4200-9949-7D24C5A7A63A"
+    },
+    {
+      "class": "group",
+      "id": "31409D39-BEF4-45AF-BB8A-C6878CB700EB"
+    },
+    {
+      "class": "group",
+      "id": "F7582DA1-A557-4702-B938-B0675E259DD2"
+    },
+    {
+      "class": "shapePath",
+      "id": "F98714D4-A856-4D5B-A45B-CCE7BF7EB89A"
+    },
+    {
+      "class": "rectangle",
+      "id": "A981B201-B556-4591-AF18-E18E86CB7DC3"
+    },
+    {
+      "class": "text",
+      "id": "66797710-8763-4AF6-8E84-276958FFF887"
+    }
+  ],
+  "name": "Wireframe - Activity Timeline - Console",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

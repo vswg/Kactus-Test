@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B499F5DC-E5F6-42C0-9EF8-AB74BF85589D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 272,
+    "width": 398,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7195E2D0-5CC5-48C7-A6EF-19F2B5BC0B79"
+    },
+    {
+      "class": "group",
+      "id": "ECC74E3E-A71F-4544-AD09-BC13869DFA87"
+    },
+    {
+      "class": "text",
+      "id": "DE56E2C7-AD23-4D11-850F-0C048BD19158"
+    },
+    {
+      "class": "rectangle",
+      "id": "F1CE8FB6-9EC6-4C55-B23D-54B2E7CE60E4"
+    },
+    {
+      "class": "text",
+      "id": "DB0656AD-7BB1-4B63-B7D3-D9B57A89792F"
+    }
+  ],
+  "name": "Popover - Inline Form",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

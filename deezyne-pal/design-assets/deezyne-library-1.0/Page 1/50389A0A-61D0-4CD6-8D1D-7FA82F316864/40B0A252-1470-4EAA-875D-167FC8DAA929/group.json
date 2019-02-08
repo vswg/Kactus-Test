@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "40B0A252-1470-4EAA-875D-167FC8DAA929",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 27,
+    "x": 1485,
+    "y": 1216
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "EDD9706D-073C-4BF6-BE68-3B46EA751FFA"
+    },
+    {
+      "class": "shapePath",
+      "id": "A1128F5D-9E45-4E33-9F7E-19181C6F389F"
+    },
+    {
+      "class": "shapePath",
+      "id": "F55FBB8A-B2F3-4750-876C-713DC35399DD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F60DA5CA-B2BC-4D20-B136-D2FF9B3CA8E6"
+    }
+  ],
+  "name": "icons/doctype/psd",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

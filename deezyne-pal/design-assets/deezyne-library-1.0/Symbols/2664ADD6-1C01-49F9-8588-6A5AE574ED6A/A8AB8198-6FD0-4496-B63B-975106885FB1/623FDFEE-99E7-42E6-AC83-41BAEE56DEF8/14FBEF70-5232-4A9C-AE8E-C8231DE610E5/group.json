@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "14FBEF70-5232-4A9C-AE8E-C8231DE610E5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 1190,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "DBFCC9C2-295B-422D-82D8-0307928E0FB5"
+    },
+    {
+      "class": "rectangle",
+      "id": "25AF6E88-0FC5-4CB4-AB23-ADCC73F81036"
+    },
+    {
+      "class": "group",
+      "id": "DC98767D-CE73-4383-BAD7-5ACECFD25A2B"
+    },
+    {
+      "class": "rectangle",
+      "id": "88C43375-1CEE-47EA-9304-45991E93627C"
+    },
+    {
+      "class": "rectangle",
+      "id": "08D20161-F038-4449-BEE4-99F26268B08A"
+    },
+    {
+      "class": "rectangle",
+      "id": "8A911C73-7698-4FD3-B0CD-D21E28DE5149"
+    },
+    {
+      "class": "rectangle",
+      "id": "4E832CA4-F09A-41E5-8EAD-049096D0EDC2"
+    },
+    {
+      "class": "rectangle",
+      "id": "065A34B5-3A2C-409B-BF05-658FD45C96CF"
+    },
+    {
+      "class": "text",
+      "id": "C10625CD-3BEE-4BA5-91E8-B2DBA1115C4D"
+    },
+    {
+      "class": "text",
+      "id": "28A39D61-6778-41F8-9C67-7F97CD0920DF"
+    },
+    {
+      "class": "text",
+      "id": "590FF53E-36F2-4A49-8F38-D07C842CEE59"
+    },
+    {
+      "class": "text",
+      "id": "C3AD3C9E-D7CC-41D4-9178-14F08DFC214A"
+    },
+    {
+      "class": "text",
+      "id": "E57787C9-3614-4420-9007-7DD14665ED76"
+    }
+  ],
+  "name": "Stage Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
