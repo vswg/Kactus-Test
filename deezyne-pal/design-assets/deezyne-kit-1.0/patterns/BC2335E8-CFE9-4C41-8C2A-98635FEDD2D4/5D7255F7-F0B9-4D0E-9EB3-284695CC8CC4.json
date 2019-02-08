@@ -31,6 +31,12 @@
   "name": "Button Neutral",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CE7D82F6-6E41-41D7-8B4D-34A21C817124",
+      "overrideName": "EC7C824A-B22B-489B-8241-CAF3930C1EF4_stringValue",
+      "value": "I'M A BUTTON"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
