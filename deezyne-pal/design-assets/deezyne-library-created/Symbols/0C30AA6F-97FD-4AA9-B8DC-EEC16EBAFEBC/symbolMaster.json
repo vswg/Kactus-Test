@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,8 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 3,
   "clippingMaskMode": 0,
-  "do_objectID": "96AC094F-6B30-4AD7-89AA-CEE3A10B188C",
+  "do_objectID": "0C30AA6F-97FD-4AA9-B8DC-EEC16EBAFEBC",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,9 +23,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 200,
-    "width": 200,
-    "x": 60,
+    "height": 149,
+    "width": 149,
+    "x": 627,
     "y": 79
   },
   "groupLayout": {
@@ -40,6 +41,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -55,7 +57,9 @@
     }
   ],
   "name": "Circle",
-  "nameIsFixed": true,
+  "nameIsFixed": false,
+  "overrideProperties": [
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -68,6 +72,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "0F4FFB1F-2AF8-42B2-A1D8-5D1CEF592AA5",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
