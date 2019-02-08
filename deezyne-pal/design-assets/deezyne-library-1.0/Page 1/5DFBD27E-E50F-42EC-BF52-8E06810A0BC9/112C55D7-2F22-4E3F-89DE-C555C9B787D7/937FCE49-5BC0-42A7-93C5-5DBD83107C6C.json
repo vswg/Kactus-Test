@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SalesforceSans-Italic",
+              "name": "IBMPlexSans-Italic",
               "size": 10
             }
           },
@@ -51,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 12.99999999999999,
-    "width": 111,
+    "height": 13,
+    "width": 107,
     "x": 86,
     "y": 1235
   },
-  "glyphBounds": "{{0, 0}, {111, 13}}",
+  "glyphBounds": "{{0, 2}, {107, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Button Group - Disab",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -89,7 +89,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SalesforceSans-Italic",
+            "name": "IBMPlexSans-Italic",
             "size": 10
           }
         },

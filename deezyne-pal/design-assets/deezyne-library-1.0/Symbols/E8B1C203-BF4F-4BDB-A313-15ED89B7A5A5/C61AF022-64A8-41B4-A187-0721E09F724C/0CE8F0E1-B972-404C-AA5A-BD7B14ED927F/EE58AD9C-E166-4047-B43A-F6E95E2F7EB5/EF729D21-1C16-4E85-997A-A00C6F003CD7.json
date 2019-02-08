@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SalesforceSans-Regular",
+              "name": "IBMPlexSans",
               "size": 13
             }
           },
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 17,
-    "width": 43,
+    "width": 41,
     "x": 16,
     "y": 7
   },
-  "glyphBounds": "{{0, 0}, {43, 17}}",
+  "glyphBounds": "{{0, 3}, {41, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "lineSpacingBehaviour": 1,
   "name": "Button Text",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -88,7 +88,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SalesforceSans-Regular",
+            "name": "IBMPlexSans",
             "size": 13
           }
         },

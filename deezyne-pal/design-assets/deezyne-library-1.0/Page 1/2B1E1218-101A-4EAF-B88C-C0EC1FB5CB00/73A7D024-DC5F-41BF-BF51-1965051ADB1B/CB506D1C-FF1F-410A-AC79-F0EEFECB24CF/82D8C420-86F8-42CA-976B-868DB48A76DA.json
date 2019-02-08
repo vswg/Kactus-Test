@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SalesforceSans-Italic",
+              "name": "IBMPlexSans-Italic",
               "size": 12
             }
           },
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 15,
-    "width": 170,
+    "width": 165,
     "x": 293,
-    "y": 1724
+    "y": 1723
   },
-  "glyphBounds": "{{0, 0}, {167, 16}}",
+  "glyphBounds": "{{0, 3}, {162, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Button Icon Stateful",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -85,7 +85,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SalesforceSans-Italic",
+            "name": "IBMPlexSans-Italic",
             "size": 12
           }
         },

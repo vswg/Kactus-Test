@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SalesforceSans-Italic",
+              "name": "IBMPlexSans-Italic",
               "size": 10
             }
           },
@@ -52,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 13,
-    "width": 120,
+    "width": 117,
     "x": 84,
     "y": 2802
   },
-  "glyphBounds": "{{0, 0}, {117, 13}}",
+  "glyphBounds": "{{0, 2}, {114, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Progress Indicator –",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -89,7 +89,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SalesforceSans-Italic",
+            "name": "IBMPlexSans-Italic",
             "size": 10
           }
         },

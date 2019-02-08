@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SalesforceSans-Regular",
+              "name": "IBMPlexSans",
               "size": 10
             }
           },
@@ -25,92 +25,6 @@
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "tabStops": [
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 28,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 56,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 84,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 112,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 140,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 168,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 196,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 224,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 252,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 280,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 308,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 336,
-                "options": {
-                }
-              }
-            ],
             "tighteningFactorForTruncation": 0.05
           }
         },
@@ -138,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 13,
-    "width": 41,
+    "width": 40,
     "x": 68,
     "y": 28
   },
-  "glyphBounds": "{{0, 0}, {40, 11}}",
+  "glyphBounds": "{{0, 2}, {39, 9}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -153,7 +67,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Disabled",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -175,7 +89,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SalesforceSans-Regular",
+            "name": "IBMPlexSans",
             "size": 10
           }
         },
@@ -184,92 +98,6 @@
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "tabStops": [
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 28,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 56,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 84,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 112,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 140,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 168,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 196,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 224,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 252,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 280,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 308,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 336,
-              "options": {
-              }
-            }
-          ],
           "tighteningFactorForTruncation": 0.05
         }
       },

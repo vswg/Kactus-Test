@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SalesforceSans-Italic",
+              "name": "IBMPlexSans-Italic",
               "size": 10
             }
           },
@@ -52,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 13,
-    "width": 116,
+    "width": 112,
     "x": 954,
     "y": 1389
   },
-  "glyphBounds": "{{0, 0}, {115, 13}}",
+  "glyphBounds": "{{0, 2}, {111, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Docked Utility Bar -",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -89,7 +89,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SalesforceSans-Italic",
+            "name": "IBMPlexSans-Italic",
             "size": 10
           }
         },

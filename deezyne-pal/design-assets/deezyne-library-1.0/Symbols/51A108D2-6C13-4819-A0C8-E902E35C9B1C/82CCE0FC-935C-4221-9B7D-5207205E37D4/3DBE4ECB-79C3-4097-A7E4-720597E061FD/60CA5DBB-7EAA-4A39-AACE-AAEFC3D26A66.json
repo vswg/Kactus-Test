@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SalesforceSans-Regular",
+              "name": "IBMPlexSans",
               "size": 13
             }
           },
@@ -59,9 +59,9 @@
     "height": 18,
     "width": 67.97101449275362,
     "x": 12,
-    "y": 30
+    "y": 31
   },
-  "glyphBounds": "{{0, 0}, {66, 18}}",
+  "glyphBounds": "{{0, 4}, {64, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -94,7 +94,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SalesforceSans-Regular",
+            "name": "IBMPlexSans",
             "size": 13
           }
         },

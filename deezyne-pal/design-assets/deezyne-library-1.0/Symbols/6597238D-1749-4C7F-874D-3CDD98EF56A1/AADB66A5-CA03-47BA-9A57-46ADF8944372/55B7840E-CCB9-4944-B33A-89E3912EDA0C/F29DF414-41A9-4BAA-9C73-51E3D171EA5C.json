@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SalesforceSans-Regular",
+              "name": "IBMPlexSans",
               "size": 13
             }
           },
@@ -54,11 +54,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 18,
-    "width": 172,
+    "width": 165,
     "x": 614,
     "y": 5
   },
-  "glyphBounds": "{{-1, 0}, {172, 17}}",
+  "glyphBounds": "{{0, 3}, {164, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,7 +69,7 @@
   "lineSpacingBehaviour": 1,
   "name": "jacobs.delphine@madg",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -91,7 +91,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SalesforceSans-Regular",
+            "name": "IBMPlexSans",
             "size": 13
           }
         },

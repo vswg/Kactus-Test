@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SalesforceSans-Bold",
+              "name": "IBMPlexSans-Bold",
               "size": 34
             }
           },
@@ -52,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 44,
-    "width": 266,
+    "width": 268,
     "x": 831,
-    "y": 127
+    "y": 125
   },
-  "glyphBounds": "{{0, 0}, {239, 35}}",
+  "glyphBounds": "{{2, 11}, {238, 25}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "lineSpacingBehaviour": 2,
   "name": "UI KIT",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -89,7 +89,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SalesforceSans-Bold",
+            "name": "IBMPlexSans-Bold",
             "size": 34
           }
         },

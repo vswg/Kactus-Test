@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SalesforceSans-Light",
+              "name": "IBMPlexSans-Light",
               "size": 20
             }
           },
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 26,
-    "width": 53,
+    "height": 25,
+    "width": 56,
     "x": 12,
-    "y": 15
+    "y": 14
   },
-  "glyphBounds": "{{0, 0}, {52, 21}}",
+  "glyphBounds": "{{1, 5}, {54, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "name": "Filters",
   "nameIsFixed": false,
   "originalObjectID": "3590E6FE-43DC-4713-A0CA-32EC7EF38091",
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "sharedStyleID": "31878D95-1F6E-4A31-AB09-9286CE84C51B",
@@ -89,7 +89,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SalesforceSans-Light",
+            "name": "IBMPlexSans-Light",
             "size": 20
           }
         },

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 0,
+  "changeIdentifier": 54,
   "clippingMaskMode": 0,
   "do_objectID": "7EED5808-E515-4FDA-9ED2-CD169F614926",
   "exportOptions": {
@@ -62,7 +62,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "D0DB2B03-4C61-42C6-AD82-01987AEF8A42_layerStyle"
+      "overrideName": "4C359110-36A9-43BC-9409-04E6D09A82E9_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -72,12 +72,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "708C7864-14BB-44E4-BF6E-7302B02A670C_stringValue"
+      "overrideName": "277D1CC1-5C41-4D45-9694-7EAC8424AEE5_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "277D1CC1-5C41-4D45-9694-7EAC8424AEE5_symbolID"
+      "overrideName": "708C7864-14BB-44E4-BF6E-7302B02A670C_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -127,7 +127,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "718F9120-E6B1-4715-96E4-E987C790EA5B_textStyle"
+      "overrideName": "2CF7ADBD-3C6F-46FB-9389-F7AF8B009C85_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -137,7 +137,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "8EB6263B-EF31-472B-A7B1-DEF736A4E79D_stringValue"
+      "overrideName": "BF509A6F-DBD4-467E-B988-4E80FE8FF80B_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -147,7 +147,17 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "BF509A6F-DBD4-467E-B988-4E80FE8FF80B_layerStyle"
+      "overrideName": "718F9120-E6B1-4715-96E4-E987C790EA5B_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8EB6263B-EF31-472B-A7B1-DEF736A4E79D_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4C359110-36A9-43BC-9409-04E6D09A82E9_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -162,16 +172,6 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "4C359110-36A9-43BC-9409-04E6D09A82E9_textStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "CA86523A-2AED-4106-8264-F6271FFC8E52_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
       "overrideName": "32D8A8F0-5E8A-4401-903A-5A6B979650FC_image"
     },
     {
@@ -182,7 +182,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "2CF7ADBD-3C6F-46FB-9389-F7AF8B009C85_symbolID"
+      "overrideName": "CA86523A-2AED-4106-8264-F6271FFC8E52_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -252,17 +252,17 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
+      "overrideName": "D0DB2B03-4C61-42C6-AD82-01987AEF8A42_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
       "overrideName": "751A76D3-D06A-4ADE-B1D1-097FBC1904DB_image"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "CA86523A-2AED-4106-8264-F6271FFC8E52_textStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "AD5CA16C-74D4-4905-BEBE-1E031D953055_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -277,7 +277,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "4C359110-36A9-43BC-9409-04E6D09A82E9_stringValue"
+      "overrideName": "AD5CA16C-74D4-4905-BEBE-1E031D953055_stringValue"
     }
   ],
   "resizesContent": false,
