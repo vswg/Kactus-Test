@@ -17,8 +17,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "6CF26921-E1CA-4358-88C6-5E5F85EBC8C1",
-    "height": 32,
-    "width": 219,
+    "height": 35,
+    "width": 258,
     "x": 288,
     "y": 284
   },
@@ -29,10 +29,28 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "name": "Button Neutral Copy",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4F7E8F55-C5E7-4B4B-B0D0-B407DCA243A3",
+      "overrideName": "18B75740-F6E3-4B21-99E5-4D0FBBDC066C_stringValue",
+      "value": "snap"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3019FA47-90EF-4A21-ADA6-6BAB38EE2719",
+      "overrideName": "BE90A681-A419-4F3F-A0BD-927954EE40CE_stringValue",
+      "value": "crackle"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F8878F15-9E6A-47E0-BF23-A48D21B6BA3C",
+      "overrideName": "D817AA0C-BE75-4C16-84F9-A41D317450F7_stringValue",
+      "value": "pop"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -67,12 +67,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "B49F89DC-6245-4A84-A11A-5D010B378A2B_stringValue"
+      "overrideName": "A1E8FF04-E8DB-41EA-A525-1B90FE437910_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "A1E8FF04-E8DB-41EA-A525-1B90FE437910_stringValue"
+      "overrideName": "B49F89DC-6245-4A84-A11A-5D010B378A2B_stringValue"
     }
   ],
   "resizesContent": false,
