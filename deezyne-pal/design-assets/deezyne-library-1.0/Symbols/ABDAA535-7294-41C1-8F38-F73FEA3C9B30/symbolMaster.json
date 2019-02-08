@@ -82,7 +82,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "AC505872-3A0D-4AA5-8952-F489FEAC04AF_textStyle"
+      "overrideName": "614C475B-C42F-4DCC-B8FA-0380727E6817_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -97,7 +97,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "614C475B-C42F-4DCC-B8FA-0380727E6817_textStyle"
+      "overrideName": "AC505872-3A0D-4AA5-8952-F489FEAC04AF_textStyle"
     }
   ],
   "resizesContent": false,
