@@ -1,0 +1,133 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FFBF7020-AE09-4671-91AA-0C58B9FAE531",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 461,
+    "width": 376,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "00F26672-2F07-4736-9E13-5CBC8A0C6748"
+    },
+    {
+      "class": "rectangle",
+      "id": "00F205C3-9D86-4FF7-861B-140DD25C6A57"
+    },
+    {
+      "class": "rectangle",
+      "id": "D4092022-C178-4C3E-A32D-DDF954B8D2EE"
+    },
+    {
+      "class": "rectangle",
+      "id": "3FA0D9CE-DE66-4EB9-9E38-244304565E70"
+    },
+    {
+      "class": "rectangle",
+      "id": "5AC0B897-3A9C-4F88-BFC5-0DB3FB434716"
+    },
+    {
+      "class": "rectangle",
+      "id": "24D22113-ECBC-4834-AE1F-C8F9068AD09C"
+    },
+    {
+      "class": "group",
+      "id": "C426CDF6-AC91-4C48-B9F4-B93BC4E63825"
+    },
+    {
+      "class": "group",
+      "id": "BC56F48D-AC94-4F43-9FE2-7FD8FA569041"
+    },
+    {
+      "class": "group",
+      "id": "2ECC6F54-3569-416F-8870-E8AD08588673"
+    },
+    {
+      "class": "rectangle",
+      "id": "6B05D209-15B5-4FC9-879E-ED2FBA32074B"
+    },
+    {
+      "class": "rectangle",
+      "id": "973DFAAF-8909-498E-918D-03EA10DF0A01"
+    },
+    {
+      "class": "group",
+      "id": "A7138BC9-4F96-445F-907F-46B29CE7699A"
+    },
+    {
+      "class": "rectangle",
+      "id": "D6AADB18-8E7B-4026-AC19-0726EE3152BF"
+    },
+    {
+      "class": "rectangle",
+      "id": "4A389016-6941-4654-825D-878452F358F3"
+    },
+    {
+      "class": "rectangle",
+      "id": "4D3D8275-E394-4956-A3FD-92307DDED409"
+    },
+    {
+      "class": "rectangle",
+      "id": "DBEECEC6-746B-4247-866E-F26343DBACCB"
+    },
+    {
+      "class": "group",
+      "id": "E9FB154F-57CE-4510-B184-EABF9882D180"
+    },
+    {
+      "class": "rectangle",
+      "id": "A0345BC5-4B08-4E98-8163-24DFA14279CB"
+    },
+    {
+      "class": "rectangle",
+      "id": "9BB799AA-4373-414B-857E-437C8FB01AF6"
+    },
+    {
+      "class": "group",
+      "id": "D9409296-CFA1-4120-ACA5-5FEE77C51C79"
+    },
+    {
+      "class": "group",
+      "id": "0D518A9C-8064-4001-9654-84FE15B23788"
+    }
+  ],
+  "name": "Wireframe - Account Details - Mobile",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

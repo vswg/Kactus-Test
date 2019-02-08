@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "45FE4E98-F0DE-4CA7-8E81-7B50E46D53B9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 586,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "84143FC3-B724-4348-A9F6-69EECEF9DA79"
+    },
+    {
+      "class": "oval",
+      "id": "FAB972FB-6EBE-4AC5-AC4F-14F1F657A961"
+    },
+    {
+      "class": "oval",
+      "id": "7BC37C98-ED26-4C16-9545-A310344C7834"
+    },
+    {
+      "class": "oval",
+      "id": "B778D883-B8C8-4C69-95E4-7222F7A95315"
+    },
+    {
+      "class": "oval",
+      "id": "1C2E4F3B-0F4B-4D6D-B0D2-34A009497E86"
+    },
+    {
+      "class": "oval",
+      "id": "15D6B658-5264-4195-B4FD-E01A74C04672"
+    },
+    {
+      "class": "oval",
+      "id": "136571ED-44EA-4548-8AF3-424BBFBD9D5B"
+    }
+  ],
+  "name": "spinner medium inverse",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

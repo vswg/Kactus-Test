@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C2376A77-B107-4F86-AA3E-4D9AC40B7DB8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 144,
+    "width": 134,
+    "x": 24,
+    "y": 528
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "E14AAA13-10D9-4FEA-9D2C-42C319587E05"
+    },
+    {
+      "class": "bitmap",
+      "id": "9CE62D9E-1FEE-4DC7-B7D7-5330D18B89E0"
+    },
+    {
+      "class": "bitmap",
+      "id": "9DE029E0-477E-447A-8AB4-4263752158CC"
+    },
+    {
+      "class": "text",
+      "id": "D3401E1D-F3B1-4D36-B618-F1F1C1E1B809"
+    }
+  ],
+  "name": "Group 1 Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
