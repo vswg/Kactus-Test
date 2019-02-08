@@ -62,7 +62,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "4C359110-36A9-43BC-9409-04E6D09A82E9_stringValue"
+      "overrideName": "AD5CA16C-74D4-4905-BEBE-1E031D953055_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -272,12 +272,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "708C7864-14BB-44E4-BF6E-7302B02A670C_textStyle"
+      "overrideName": "4C359110-36A9-43BC-9409-04E6D09A82E9_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "AD5CA16C-74D4-4905-BEBE-1E031D953055_stringValue"
+      "overrideName": "708C7864-14BB-44E4-BF6E-7302B02A670C_textStyle"
     }
   ],
   "resizesContent": false,
