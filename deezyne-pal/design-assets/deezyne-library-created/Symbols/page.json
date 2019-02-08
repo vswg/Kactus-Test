@@ -40,12 +40,16 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "96AC094F-6B30-4AD7-89AA-CEE3A10B188C"
+      "class": "symbolMaster",
+      "id": "0C30AA6F-97FD-4AA9-B8DC-EEC16EBAFEBC"
     },
     {
-      "class": "artboard",
-      "id": "865A9E04-3140-4608-8594-2A1E627D6A92"
+      "class": "symbolMaster",
+      "id": "EA3383B5-C951-428F-B525-AF47CDEDFD52"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "985C114E-D297-4E49-8289-0879871F3574"
     }
   ],
   "name": "Symbols",
